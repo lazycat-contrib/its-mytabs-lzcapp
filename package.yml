@@ -1,0 +1,15 @@
+package: community.lazycat.app.its-mytabs
+version: 1.0.0
+name: It's MyTabs
+description: 开源，基于网页，可自托管的吉他/贝斯乐谱查看器和播放器，类似于 Songsterr。
+min_os_version: 1.5.0
+homepage: https://github.com/louislam/its-mytabs/
+author: louislam
+
+locales:
+  zh:
+    name: "It's MyTabs"
+    description: "开源，基于网页，可自托管的吉他/贝斯乐谱查看器和播放器，类似于 Songsterr。"
+  en:
+    name: "It's MyTabs"
+    description: "Open source, web based, self hostable guitar/bass tab viewer and player, similar to Songsterr."
