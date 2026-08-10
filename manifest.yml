@@ -18,7 +18,7 @@ application:
 services:
   its-mytabs:
     container_name: its-mytabs
-    #  louislam/its-mytabs:1
+    #  louislam/its-mytabs:1.0.0
     image: registry.lazycat.cloud/czyt/louislam/its-mytabs:69e52b1692c79740
     binds:
       - /lzcapp/var/data:/app/data
