@@ -9,7 +9,7 @@ application:
 services:
   its-mytabs:
     # louislam/its-mytabs:1.0.0
-    # upstream: louislam/its-mytabs:1.6.2
-    image: docker.1ms.run/louislam/its-mytabs:1.6.2
+    # upstream: louislam/its-mytabs:1.7.0
+    image: docker.1ms.run/louislam/its-mytabs:1.7.0
     binds:
       - /lzcapp/var/data:/app/data
